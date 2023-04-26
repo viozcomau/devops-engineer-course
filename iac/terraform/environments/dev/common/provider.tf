@@ -17,7 +17,7 @@ terraform {
     # profile                 = "lamhaison"
 
     # Region. For example is region singapore.
-    region                  = "ap-southeast-1"
+    region                  = "ap-southeast-2"
   }
 
 }
@@ -28,5 +28,5 @@ provider "aws" {
   # profile = "lamhaison"
 
   # Region. For example is region singapore.
-  region  = "ap-southeast-1"
+  region  = "ap-southeast-2"
 }

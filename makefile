@@ -1,11 +1,11 @@
 export AWS_PROFILE :=
-export AWS_REGION  :=ap-southeast-1
-export PROJECT_NAME :=lamhaison-2023
-export ACCOUNT_ID :=813995029960
+export AWS_REGION  :=ap-southeast-2
+export PROJECT_NAME :=ntkduy-2023
+export ACCOUNT_ID :=390726816328
 export SHORT_ENV :=dev
 export TEMPLATE_PATH :=examples
 export TF_PATH := iac/terraform/environments/dev/common
-export BUCKET_NAME:=lamhaison-testing
+export BUCKET_NAME:=terraformdemo1231239
 
 # Running list_ami_aws_default to get that information
 export AWS_AMI_ID :=ami-0409b67925493d8b8
