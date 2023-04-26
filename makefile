@@ -8,7 +8,7 @@ export TF_PATH := iac/terraform/environments/dev/common
 export BUCKET_NAME:=terraformdemo1231239
 
 # Running list_ami_aws_default to get that information
-export AWS_AMI_ID :=ami-0409b67925493d8b8
+export AWS_AMI_ID :=ami-0d9f286195031c3d9
 
 # Docker Compose version v2.10.2
 build_base:
